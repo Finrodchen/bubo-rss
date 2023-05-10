@@ -1,26 +1,19 @@
 {
-  "Developer News": [
-    "https://hacks.mozilla.org/feed/",
-    "https://web.dev/feed.xml",
-    "https://v8.dev/blog.atom",
-    "https://alistapart.com/main/feed/",
-    "https://css-tricks.com/feed/",
-    "https://dev.to/feed",
-    "https://changelog.com/feed"
+  "Tech": [
+    "http://feeds.feedburner.com/cool3c-show",
+    "http://chinese.engadget.com/rss.xml",
+    "http://rsshub.app/ifanr/app",
+    "http://feeds.feedburner.com/techbang",
+    "http://rsshub.app/sspai/matrix",
+    "http://rsshub.app/appstore/gofans"
   ],
-  "Blogs": [
-    "https://george.mand.is/feed.xml",
-    "https://joy.recurse.com/feed.atom"
+  "Others": [
+    "http://rsshub.app/141jav/popular/30",
+    "http://rsshub.app/cool18/bbs/gold"
   ],
-  "Social": [
-    "https://social.mandis.dev/@georgemandis.rss"
-  ],
-  "My GitHub Projects": [
-    "https://github.com/georgemandis.atom",
-    "https://github.com/georgemandis/bubo-rss/releases.atom",
-    "https://github.com/georgemandis/konami-js/releases.atom",
-    "https://github.com/georgemandis/konami-js/commits/main.atom",
-    "https://github.com/javascriptforartists/cheer-me-up-and-sing-me-a-song/commits/master.atom",
-    "https://github.com/georgemandis/circuit-playground-midi-multi-tool/commits/master.atom"
+  "Finance": [
+    "http://ftr.fivefilters.org/makefulltextfeed.php?url=https://tw.stock.yahoo.com/rss?category=research&amp;max=3&amp;links=preserve&amp;exc=",
+    "http://www.businessweekly.com.tw/adclick.aspx?id=27033",
+    "http://www.funddj.com/KMDJ/RssCenter.aspx?svc=RP&amp;fno=1&amp;arg=X0000000"
   ]
 }

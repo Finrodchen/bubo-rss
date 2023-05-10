@@ -8,12 +8,11 @@
     "http://rsshub.app/appstore/gofans"
   ],
   "Others": [
-    "http://rsshub.app/141jav/popular/30",
+    "https://feeds.feedburner.com/rsshub/141jav",
     "http://rsshub.app/cool18/bbs/gold"
   ],
   "Finance": [
     "http://ftr.fivefilters.org/makefulltextfeed.php?url=https://tw.stock.yahoo.com/rss?category=research&amp;max=3&amp;links=preserve&amp;exc=",
-    "http://www.businessweekly.com.tw/adclick.aspx?id=27033",
-    "http://www.funddj.com/KMDJ/RssCenter.aspx?svc=RP&amp;fno=1&amp;arg=X0000000"
+    "http://www.businessweekly.com.tw/adclick.aspx?id=27033"
   ]
 }
